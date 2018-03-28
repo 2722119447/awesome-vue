@@ -236,7 +236,10 @@
 - [**Vue.js 2.0 HackerNews Clone**](https://github.com/vuejs/vue-hackernews-2.0)
 
 ### Tutorials
-
+- [vue.js 2 入门与提高](http://xc.hubwiz.com/course/592ee9b2b343f27b0ae1ba99?affid=20180328github)
+- [vuex 2 入门与提高](http://xc.hubwiz.com/course/597d463fff52d0da7e3e397a?affid=20180328github)
+- [vue-router 2 入门与提高](http://xc.hubwiz.com/course/5983d3aeff52d0da7e3e3d50?affid=20180328github)
+- [vue.js 2 工程化实践](http://xc.hubwiz.com/course/598bad66c7fd1d49453979c9?affid=20180328github)
 - [Vue.js screencasts](https://laracasts.com/series/learn-vue-2-step-by-step) on Laracasts
 - [What's New in Vue.js 1.0](http://www.sitepoint.com/whats-new-in-vue-js-1-0/) on Sitepoint
 - [Vuejs 2 Authentication Tutorial](https://auth0.com/blog/vuejs2-authentication-tutorial/) on Auth0 blog
